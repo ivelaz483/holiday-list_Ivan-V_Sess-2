@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+li {
+    line-height: 42px;
+}
+.list {
+    background-color: white;
+    text-align: center;
+}
+
+.holiday {
+    background-color: teal;
+}
+
+.odd {
+    background-color: yellow;
+}
+
+.even {
+    background-color: green;
+}
